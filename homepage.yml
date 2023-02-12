@@ -1,70 +1,70 @@
-locale: en-US
+locale: el-GR
 translations:
     ###########################################################################
     # Homepage
     ###########################################################################
 
     - key: homepage.hand_coded
-      t: Hand-coded in Japan.
+      t: Προγραμματισμό στην Ελλάδα.
     - key: homepage.leave_issue
-      t: Leave an issue
+      t: Αφήστε ένα ζήτημα
     - key: homepage.get_in_touch
-      t: Get in touch
+      t: Επικοινωνήστε με
 
     - key: homepage.previous_years
-      t: 'Previous Years:'
+      t: 'Προηγούμενα χρόνια:'
 
     - key: homepage.take_survey
-      t: Take Survey
+      t: Πάρε μέρος στην έρευνα
 
     - key: homepage.view_results
-      t: View Results
+      t: Δείτε τα αποτελέσματα
 
     - key: homepage.results_coming_soon
-      t: Results Coming Soon…
+      t: Αποτελέσματα σύντομα 
 
     - key: share.help_spread
-      t: Help Spread the Word!
+      t: Βοηθήστε στην διάδοση
 
     - key: homepage.other_surveys
-      t: 'Other Surveys:'
+      t: 'Άλλες έρευνες:'
 
     - key: homepage.survey_open_now
-      t: Currently Open
+      t: Έρευνες που τρέχουν τώρα
 
     - key: homepage.survey_preview
-      t: Preview Survey
+      t: Προεπισκόπησης έρευνας
 
     - key: homepage.most_recent_survey
-      t: Most Recent
+      t: Πιο πρόσφατη
 
     - key: homepage.current_survey
-      t: Current Survey
+      t: Τρέχουσα έρευνα
 
     - key: homepage.past_surveys
-      t: Past Surveys
+      t: Προηγούμενες έρευνες
 
     - key: homepage.view_questions
-      t: View Questions
+      t: Προβολή ερωτήσεων
 
     - key: homepage.preview_questions
-      t: Preview Questions
+      t: Προεπισκόπησης ερωτήσεων
 
     # newsletter
     - key: newsletter.stay_tuned
-      t: Don't Miss the Next Survey
+      t: Μείνετε Συντονισμένη
     - key: newsletter.leave_your_email
-      t: Leave us your email and we’ll let you know when the next survey takes place.
+      t: Αφήστε μας το email σας και θα σας ενημερώσουμε πότε θα πραγματοποιηθεί η επόμενη έρευνα
     - key: newsletter.email
-      t: Your Email
+      t: Το email σας
     - key: newsletter.submit
-      t: Notify Me
+      t: Ειδοποίησε με
 
     # languages
     - key: languages.available_languages
-      t: 'Available languages:'
+      t: 'Διαθέσιμες γλώσσες:'
     - key: languages.help_us_translate
-      t: Help us translate the survey in your language →
+      t:  Βοηθήστε μας να μεταφράσουμε την έρευνα στη γλώσσα σας →
 
     # partners
     - key: homepage.with_support_from
@@ -80,4 +80,4 @@ translations:
     - key: homepage.join_discord
       aliasFor: general.join_discord
     - key: homepage.astro_link
-      t: Powered by [Astro](https://astro.build/)
+      t: Με την βοήθεια του [Astro](https://astro.build/)

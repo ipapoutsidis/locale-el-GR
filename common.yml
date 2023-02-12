@@ -6,80 +6,78 @@ translations:
 
     # homepage
     - key: general.why_create_account
-      t: Why do I need to create an account?
+      t: Γιατί πρέπει να δημιουργήσω λογαριασμό?
     - key: general.create_account_reasons
       t: >
-          We ask you to create an account in order to:
+          Σας ζητάμε να δημιουργήσετε έναν λογαριασμό για να:
 
-          - Avoid duplicate responses
+          - Αποφύγετε τις διπλές απαντήσεις
 
-          - Give you access to your data
+          - Σας δίνουμε πρόσβαση στα δεδομένα σας
 
-          - Save your session as you go
+          - Αποθηκεύστε τη συνεδρία σας καθώς πηγαίνετε
 
-          - Notify you when results are live
+          - Θα σας ειδοποιήσουμε όταν τα αποτελέσματα είναι αναρτημένα
     - key: general.survey_closed
       t: >
-          Sorry, the survey is now closed! You can still review your data but you won't be able to modify it.
+          Δυστυχώς, η έρευνα έχει πλέον κλείσει! Μπορείτε ακόμα να ελέγξετε τα δεδομένα σας, αλλά δεν θα μπορείτε να τα τροποποιήσετε..
     - key: general.survey_read_only
       t: >
-          You are currently viewing this survey in read-only mode.
+          Αυτήν τη στιγμή βλέπετε αυτήν την έρευνα σε λειτουργία μόνο για ανάγνωση.
     - key: general.survey_preview
-      t: >
-          This survey is in preview mode. Its questions are subject to change, and all 
-          inputted data will be deleted when the actual survey starts. 
-
+      t: > 
+      Αυτή η έρευνα είναι σε κατάσταση προεπισκόπησης. Τα ερωτήματά της υπόκεινται σε αλλαγές, και όλα τα εισαγόμενα δεδομένα διαγράφονται όταν αρχίζει η πραγματική έρευνα.     
     - key: general.survey_read_only_back
       t: >
-          <a href="{link}">Go back</a> to the main survey page to start or resume a session.
+          <a href="${link}">Μεταβείτε</a> στην κύρια έρευνα για να ξεκινήσετε ή να συνεχίσετε μια συνεδρία.
     - key: general.take_survey
       t: Take the {name} survey
 
     # surveys
     - key: general.open_surveys
-      t: Open Surveys
+      t: Ανοίξτε τις έρευνες
     - key: general.no_open_surveys
-      t: No surveys are currently open.
+      t: Προς το παρόν δεν υπάρχουν ανοιχτές έρευνες.
     - key: general.closed_surveys
-      t: Closed Surveys
+      t: Κλειστές έρευνες
     - key: general.no_closed_surveys
-      t: No surveys are currently closed.
+      t: Προς το παρόν οι έρευνες είναι κλειστές.
     - key: general.preview_surveys
-      t: Preview Surveys
+      t: Προεπισκόπησης ερευνών
     - key: general.no_preview_surveys
-      t: No surveys available to preview.
+      t: Δεν υπάρχουν διαθέσιμες έρευνες για προεπισκόπηση.
     - key: general.start_survey
-      t: Start Survey »
+      t: Ξεκινήστε την έρευνα
     - key: general.continue_survey
-      t: Continue Survey »
+      t: Συνέχεια έρευνας
     - key: general.review_survey
-      t: Review Survey »
+      t:  Έλεγχος έρευνας
     - key: general.preview_survey
-      t: Preview Survey »
+      t: Προεπισκόπηση έρευνας
     - key: general.finish_survey
-      t: Finish Survey »
+      t: Τελειώστε την έρευνα
     - key: general.next_section
-      t: Next section
+      t: Επόμενο τμήμα
     - key: general.prev_section
-      t: Previous section
+      t: Προηγούμενο τμήμα
     - key: general.survey_closed
-      t: This survey is now closed.
+      t: Αυτή η έρευνα είναι πλέον κλειστή
     - key: general.survey_results
-      t: View Survey Results »
+      t: Δείτε τα αποτελέσματα της έρευνας
     - key: general.surveys_available_languages
-      t: 'Surveys available in:'
+      t: 'H έρευνα θα είναι διαθέσιμη απο:'
     - key: general.help_us_translate
-      t: Help us translate the surveys »
+      t: Βοηθήστε μας να μεταφράσουμε τις έρευνες
     - key: general.translators
-      t: Translators
+      t: Μεταφραστές
     - key: general.translation_help
-      t: Translation Help
+      t: Βοήθεια μετάφρασης
     - key: general.newly_added
-      t: Newly added this year
+      t: Προστέθηκε αυτό το χρόνο
     - key: general.new
-      t: New
+      t: Νέα
     - key: general.devographics_banner
-      t: <a href="https://www.devographics.com/" target="_blank">Devographics</a> is the new name of the collective running the State of JavaScript, CSS, and GraphQL surveys.
+      t: <a href="https://www.devographics.com/" target="_blank">Devographics</a> είναι το νέο όνομα της ομάδας που διεξάγει τις έρευνες της State of JavaScript, CSS, και GraphQ.
 
     # credits
     - key: credits.thanks
@@ -109,142 +107,142 @@ translations:
 
     # support
     - key: general.support_from
-      t: With Support From
+      t: Με υποστήριξη από
 
     # footer
     - key: general.privacy_policy
-      t: Privacy Policy
+      t: Πολιτική απορρήτου
     - key: general.leave_issue
-      t: Questions? Found a bug? <a href="{link}" target="_blank">Leave an issue</a>.
+      t: Ερωτήσεις; Βρήκατε ένα σφάλμα; <a href="${link}" target="_blank">Αφήστε ένα ζήτημα</a>.
     - key: general.emoji_icons
-      t: Emoji icons by <a target="_blank" rel="noreferrer" href="https://icons8.com">Icons8</a>
+      t: Emoji εικονίδια από <a target="_blank" rel="noreferrer" href="https://icons8.com">Icons8</a>
 
     # navigation
     - key: general.table_of_contents
-      t: Table of Contents
+      t: Πίνακας περιεχομένων
     - key: general.all_questions_optional
       t: >
-          Note: all questions are optional, reaching 100% completion is not required.
+          Σημείωση: όλες οι ερωτήσεις είναι προαιρετικές, δεν απαιτείται ολοκλήρωση 100%.
     - key: general.data_is_saved
-      t: Your data is saved whenever you navigate to the previous or next section.
+      t: Τα δεδομένα σας αποθηκεύονται κάθε φορά που μεταβαίνετε στην προηγούμενη ή στην επόμενη ενότητα.
     - key: general.close_nav
-      t: Close menu
+      t: Κλείσιμο μενού
     - key: general.open_nav
-      t: Open menu
+      t: Άνοιγμα μενού
     - key: general.more_actions
-      t: More actions
+      t: Περισσότερες ενέργειες
     - key: general.skip_to_content
-      t: Skip to content
+      t: Παράλειψη περιεχομένου
 
     # thanks
     - key: general.back
       t: Back
     - key: general.thanks
       t: >
-          Thanks for filling out the survey! Your data is saved.
+          Ευχαριστούμε που συμπληρώσατε την έρευνα!
 
+          Τα δεδομένα έχουν αποθηκευτεί. Μπορείτε να τα ελέγξετε ή να τα τροποποιήσετε έως ότου ολοκληρωθεί η έρευνα.
 
-          Also, you can help us get the word out by sharing this survey. Every bit counts, and it'll help make our data even
-          more representative:
+          Επίσης, μπορείτε να μας βοηθήσετε να κοινοποιήσουμε τη σχετική έρευνα. Κάθε bit μετράει και θα μας βοηθήσει να κάνουμε τα δεδομένα μας ακόμη πιο αντιπροσωπευτικά:
     - key: thanks.learn_more_about
-      t: 'Some of the features you might want to learn more about:'
+      t: 'Μερικές από τις δυνατότητες που ίσως θέλετε να μάθετε περισσότερα:'
     - key: thanks.knowledge_score
-      t: Knowledge Score
+      t: Βαθμολογία γνώσης
     - key: thanks.score_explanation
       t: >
-          You’ve heard or used <span class="score-number score-number-known">{known}</span> out of
-          <span class="score-number score-number-total">{total}</span> features mentioned in the survey, which
-          puts you in the top <span class="score-number score-number-ranking">{knowledgeRankingFromTop}%</span>
-          of all respondents.
+          Έχετε ακούσει ή χρησιμοποιήσει <span class="score-number score-number-known">{known}</span> 
+          <span class="score-number score-number-total">{total}</span> τις δυνατότητες που αναφέρονται στην έρευνα, οι οποίες
+           σας βάζει στην κορυφή<span class="score-number score-number-ranking">{knowledgeRankingFromTop}%</span>
+          όλων των ερωτηθέντων.
     - key: thanks.share_on_twitter
-      t: Share on Twitter
+      t: Μοιραστείτε στο Twitter
     - key: thanks.share_score_message
       t: >
-          I got a {score}% knowledge score on this year's #{hashtag} survey! Take the survey here: {shareUrl}
+          Πήρα μια {score}% βαθμολογία γνώσης στη φετινή #{hashtag} έρευνα! Παρακολουθήστε την έρευνα εδώ: {shareUrl}
     # share
     - key: general.share_subject
       t: >
-          {surveyName} survey
+         {surveyName} έρευνα
     - key: general.share_text
       t: >
-          This year's {surveyName} survey is now open! {link}
+         Η φετινή έρευνα {surveyName} είναι πλέον ανοικτή! {link}
 
     # forms
     - key: forms.select_option
-      t: Select option
+      t: Επιλέξτε
     - key: forms.clear_field
-      t: Clear question
+      t: Σαφής ερώτηση
 
     # partners & sponsors
     - key: sponsors.with_support_from
-      t: With Special Support From
+      t: Με ειδική υποστήριξη από
     - key: sponsors.our_partners
-      t: Our Partners
+      t:  Όι συνεργάτες μας
     - key: sponsors.become_partner
-      t: Become a partner
+      t: Γίνε συνεργάτης
 
     # 404
     - key: notfound.title
       t: 404 Not Found
     - key: notfound.description
-      t: Sorry, we couldn't find what you were looking for. 
+      t: Δυστυχώς, δεν μπορέσαμε να βρούμε αυτό που ψάχνατε. 
 
     # other
     - key: general.join_discord
-      t: Join us on <a href="{link}">Discord</a>. 
+      t: Ελάτε μαζί μας <a href="${link}">Discord</a>. 
     - key: general.translator_mode
-      t: Press option/alt to enable translator mode. 
+      t: Πατήστε την επιλογή/alt για να ενεργοποιήσετε τη λειτουργία μεταφραστή. 
     - key: general.charts_nivo
-      t: Charts built with <a href="{link}">Nivo</a>.
+      t: Διαγράμματα φτιαγμένα με <a href="${link}">Nivo</a>.
     - key: general.made_by_devographics
-      t: Made by <a href="{link}">Devographics</a>
+      t: Παράγεται από <a href="{link}">Devographics</a>
     - key: general.view_code_example
-      t: View Code Example
+      t: Προβολής κώδικα παραδείγματος
     - key: general.feature_code_example
-      t: "**{featureName}** Code Example"
+      t: "**{featureName}** Παράδειγμα του κωδικού"
     - key: general.code_example
-      t: Code Example
+      t: Παράδειγμα του κωδικού
       
     ###########################################################################
     # Nav
     ###########################################################################
 
     - key: nav.surveys
-      t: Surveys
+      t: Έρευνες
     - key: nav.account
-      t: Account
+      t: Λογαριασμός
 
     ###########################################################################
     # Sections
     ###########################################################################
 
     - key: sections.user_info.title
-      t: About You
+      t: Σχετικά με σας
     - key: sections.user_info.description
-      t: Let's get to know the real you.
+      t: Ας γνωρίσουμε τον πραγματικό εαυτό σας.
 
     - key: sections.features.title
-      t: Features
+      t: Χαρακτηριστικά
     - key: sections.features.description
-      t: Syntax, keywords, and other language features.
+      t: Σύνταξη, λέξεις-κλειδιά και άλλες λειτουργίες γλώσσας.
 
     - key: sections.resources.title
-      t: Resources
+      t: Πηγές
     - key: sections.resources.description
-      t: What {topic} resources do you consult?
+      t: Ποιές πηγές {topic} συμβουλεύεστε?
 
     - key: sections.opinions.title
-      t: Opinions
+      t: Επιλογές
     - key: sections.opinions.description
-      t: How do you feel about the state of {topic}?
+      t: Πώς αισθάνεστε για την κατάσταση του {topic}?
 
     - key: sections.other_tools.title
-      t: Other Tools
+      t: Υπόλοιπα εργαλεία
     - key: sections.other_tools.description
-      t: For these tools & technologies, just check the ones that you use regularly.
+      t: Για αυτά τα εργαλεία και τις τεχνολογίες, απλώς ελέγξτε αυτά που χρησιμοποιείτε περισσότερα.
 
     - key: sections.report.title
-      t: Trend Report
+      t: Έκθεση τάσεων
 
     ###########################################################################
     # Options
@@ -727,8 +725,6 @@ translations:
       t: Community & Inclusivity
     - key: options.tool_evaluation.community_inclusivity.description
       t: Does it have a welcoming, vibrant community built around it?
-
-
 
     # accessibility features
     - key: options.accessibility_features.keyboard_navigation
