@@ -250,129 +250,129 @@ translations:
 
     # features
     - key: options.features.never_heard
-      t: <span aria-hidden="true">🤷</span> Never heard of it/Not sure what it is
+      t: <span aria-hidden="true">🤷</span> Δεν το έχετε άκουσει / Δεν είστε σίγουρη τι είναι
     - key: options.features.heard
-      t: <span aria-hidden="true">✅</span> Know what it is, but haven't used it
+      t: <span aria-hidden="true">✅</span> Μάθετε τι είναι, αλλά δεν το έχετε χρησιμοποιήσει
     - key: options.features.used
-      t: <span aria-hidden="true">👍</span> I've used it
+      t: <span aria-hidden="true">👍</span> Το έχω χρησιμοποιήσει
 
     # features (no emoji)
     - key: options.features.never_heard.label
-      t: Never heard of it/Not sure what it is
+      t: Δεν το έχετε άκουσει / Δεν είστε σίγουρη τι είναι
     - key: options.features.heard.label
-      t: Know what it is, but haven't used it
+      t: Μάθετε τι είναι, αλλά δεν το έχετε χρησιμοποιήσει
     - key: options.features.used.label
-      t: I've used it
+      t: Το έχω χρησιμοποιήσει.
 
     # features (short versions)
     - key: options.features.never_heard.short
-      t: Never heard of it
+      t: Δεν το έχετε ακούσει ποτέ
     - key: options.features.heard.short
-      t: Know about it
+      t: Μάθετε για αυτό
     - key: options.features.used.short
-      t: Have used it
+      t: Το έχετε χρησιμοποιήσει
 
     # patterns
     - key: options.patterns.use_never
-      t: Almost always avoid
+      t: Να το αποφεύγετε πάντα
     - key: options.patterns.use_sparingly
-      t: Use sparingly
+      t: Χρησιμοποιήστε με συναίνεση
     - key: options.patterns.use_neutral
-      t: Neutral
+      t: Ουδέτερος
     - key: options.patterns.use_frequently
-      t: Use frequently
+      t: Χρησιμοποιήστε συχνά
     - key: options.patterns.use_always
-      t: Use as much as I can
+      t: Χρησιμοποιήστε όσο περισσότερο μπορείται
 
     # tools experience
     - key: options.tools.never_heard
-      t: <span aria-hidden="true">🤷</span> Never heard of it/Not sure what it is
+      t: <span aria-hidden="true">🤷</span> Δεν το έχετε άκουσει / Δεν είστε σίγουρη τι είναι
     - key: options.tools.interested
-      t: <span aria-hidden="true">✅</span> Heard of it > Would like to learn
+      t: <span aria-hidden="true">✅</span> ο έχετε ακούσει > Θα θέλατε να μάθετε
     - key: options.tools.not_interested
-      t: <span aria-hidden="true">🚫</span> Heard of it > Not interested
+      t: <span aria-hidden="true">🚫</span> Το έχετε ακούσει > Δεν σας ενδιαφέρει
     - key: options.tools.would_use
-      t: <span aria-hidden="true">👍</span> Used it > Would use again
+      t: <span aria-hidden="true">👍</span> Το χρησιμοποιήσατε > Θα το χρησιμοποιούσατε ξανά
     - key: options.tools.would_not_use
-      t: <span aria-hidden="true">👎</span> Used it > Would not use again
+      t: <span aria-hidden="true">👎</span> Το χρησιμοποιήσατε > Δεν Θα το χρησιμοποιούσατε ξανά
 
     # tools experience (no emoji)
     - key: options.tools.never_heard.legend
-      t: Never heard of it/Not sure what it is
+      t: Δεν το έχετε άκουσει / Δεν είσται σίγουρη τι είναι
     - key: options.tools.interested.legend
-      t: Heard of it > Would like to learn
+      t: Το έχετε ακούσει > Θα θέλατε να μάθετε
     - key: options.tools.not_interested.legend
-      t: Heard of it > Not interested
+      t: Το έχετε ακούσει > Δεν σας ενδιαφέρει
     - key: options.tools.would_use.legend
-      t: Used it > Would use again
+      t: Το χρησιμοποιήσατε > Θα το χρησιμοποιούσατε ξανά
     - key: options.tools.would_not_use.legend
-      t: Used it > Would not use again
+      t:  Το χρησιμοποιήσατε > Δεν Θα το χρησιμοποιούσατε ξανά
 
     # tools experience (short versions)
     - key: options.tools.never_heard.short
-      t: Never heard
+      t: Δεν το έχετε άκουσει
     - key: options.tools.interested.short
-      t: Interested
+      t: Σας ενδιαφέρει
     - key: options.tools.not_interested.short
-      t: Not interested
+      t: Δεν σας ενδιαφέρει
     - key: options.tools.would_use.short
-      t: Would use again
+      t: Το χρησιμοποιήσατε
     - key: options.tools.would_not_use.short
-      t: Would not use
+      t: Δεν Θα το χρησιμοποιούσατε
 
     # happiness
     - key: options.happiness.0
-      t: Very Unhappy
+      t: Πολύ δυσαρεστημένος
     - key: options.happiness.1
-      t: Unhappy
+      t: Δυσαρεστημένος
     - key: options.happiness.2
-      t: Neutral
+      t: Ουδέτερος
     - key: options.happiness.3
-      t: Happy
+      t: Χαρούμενος
     - key: options.happiness.4
-      t: Very Happy
+      t: Πόλυ χαρούμενος
 
     # happiness (short version)
     - key: options.happiness.0.short
-      t: Very Unhappy
+      t: Πολύ δυσαρεστημένος
     - key: options.happiness.1.short
-      t: Unhappy
+      t: Δυσαρεστημένος
     - key: options.happiness.2.short
-      t: Neutral
+      t: Ουδέτερος
     - key: options.happiness.3.short
-      t: Happy
+      t: Χαρούμενος
     - key: options.happiness.4.short
-      t: Very Happy
+      t: Πόλυ χαρούμενος
 
     # opinions
     - key: options.opinions.0
-      t: Disagree Strongly
+      t: Διαφωνώ έντονα
     - key: options.opinions.1
-      t: Disagree
+      t: Διαφωνώ
     - key: options.opinions.2
-      t: Neutral
+      t: Ουδέτερος
     - key: options.opinions.3
-      t: Agree
+      t: Συμφωνώ
     - key: options.opinions.4
-      t: Agree Strongly
+      t: Συμφωνώ απόλυτα
 
     # age
     - key: options.age.range_less_than_10
-      t: 10 years old or under
+      t: Λιγότερο από τα 10 χρονών
     - key: options.age.range_10_18
-      t: 11-18 years old
+      t: 11-18 χρονών
     - key: options.age.range_18_24
-      t: 19-24 years old
+      t: 19-24 χρονών
     - key: options.age.range_25_34
-      t: 25-34 years old
+      t: 25-34 χρονών
     - key: options.age.range_35_44
-      t: 35-44 years old
+      t: 35-44 χρονών
     - key: options.age.range_45_54
-      t: 45-54 years old
+      t: 45-54 χρονών
     - key: options.age.range_55_64
-      t: 55-64 years old
+      t: 55-64 χρονών
     - key: options.age.range_more_than_65
-      t: 65 years or older
+      t: 65 χρονών και πάνω
 
     # age (short versions)
     - key: options.age.range_less_than_10.short
@@ -394,49 +394,49 @@ translations:
 
     # years of experience
     - key: options.years_of_experience.range_less_than_1
-      t: Less than one year
+      t: Λιγότερο από ένα έτος
     - key: options.years_of_experience.range_1_2
-      t: 1 to 2 years
+      t: 1 έως 2 χρόνια
     - key: options.years_of_experience.range_2_5
-      t: 3 to 5 years
+      t: 3 έως 5 χρόνια
     - key: options.years_of_experience.range_5_10
-      t: 6 to 10 years
+      t: 6 έως 10 χρόνια
     - key: options.years_of_experience.range_10_20
-      t: 11 to 20 years
+      t: 11 έως 20 χρόνια
     - key: options.years_of_experience.range_more_than_20
-      t: More than 20 years
+      t: Περισσότερο από 20 χρόνια
 
     # years of experience (short versions)
     - key: options.years_of_experience.range_less_than_1.short
-      t: '<1 years'
+      t: '<1 χρόνια'
     - key: options.years_of_experience.range_1_2.short
-      t: 1-2 years
+      t: 1-2 χρόνια
     - key: options.years_of_experience.range_2_5.short
-      t: 3-5 years
+      t: 3-5 χρόνια
     - key: options.years_of_experience.range_5_10.short
-      t: 6-10 years
+      t: 6-10 χρόνια
     - key: options.years_of_experience.range_10_20.short
-      t: 11-20 years
+      t: 11-20 χρόνια
     - key: options.years_of_experience.range_more_than_20.short
-      t: '>20 years'
+      t: '>20 χρόνια'
 
     # company size
     - key: options.company_size.range_1
-      t: One employee
+      t: Ένας υπάλληλος
     - key: options.company_size.range_1_5
-      t: 2 to 5 employees
+      t: 2 έως 5 υπαλλήλους
     - key: options.company_size.range_5_10
-      t: 6 to 10 employees
+      t: 6 έως 10 υπαλλήλους
     - key: options.company_size.range_10_20
-      t: 11 to 20 employees
+      t: 11 έως 20 υπαλλήλους
     - key: options.company_size.range_20_50
-      t: 21 to 50 employees
+      t: 21 έως 50 υπαλλήλους
     - key: options.company_size.range_50_100
-      t: 51 to 100 employees
+      t: 51 έως 100 υπαλλήλους
     - key: options.company_size.range_100_1000
-      t: 101 to 1000 employees
+      t: 101 έως 1000 υπαλλήλους
     - key: options.company_size.range_more_than_1000
-      t: More than 1000 employees
+      t: Πάνω από 1000 υπαλλήλους
 
     # company size (short versions)
     - key: options.company_size.range_1.short
@@ -458,127 +458,127 @@ translations:
 
     # salary
     - key: options.yearly_salary.range_work_for_free
-      t: I work for free
+      t: Δουλεύω δωρεάν
     - key: options.yearly_salary.range_0_10
-      t: $0k-$10k
+      t: €0k-€10k
     - key: options.yearly_salary.range_10_30
-      t: $10k-$30k
+      t: €10k-€30k
     - key: options.yearly_salary.range_30_50
-      t: $30k-$50k
+      t: €30k-€50k
     - key: options.yearly_salary.range_50_100
-      t: $50k-$100k
+      t: €50k-€100k
     - key: options.yearly_salary.range_100_200
-      t: $100k-$200k
+      t: €100k-€200k
     - key: options.yearly_salary.range_more_than_200
-      t: More than $200k
+      t: Πάνω από €200k
 
     # salary (short versions)
     - key: options.yearly_salary.range_work_for_free.short
-      t: $0
+      t: €0
     - key: options.yearly_salary.range_0_10.short
-      t: $0-$10k
+      t: €0-€10k
     - key: options.yearly_salary.range_10_30.short
-      t: $10k-$30k
+      t: €10k-€30k
     - key: options.yearly_salary.range_30_50.short
-      t: $30k-$50k
+      t: €30k-€50k
     - key: options.yearly_salary.range_50_100.short
-      t: $50k-$100k
+      t: €50k-€100k
     - key: options.yearly_salary.range_100_200.short
-      t: $100k-$200k
+      t: €100k-€200k
     - key: options.yearly_salary.range_more_than_200.short
-      t: '>$200k'
+      t: '>€200k'
 
     # Proficiency (generic versions)
     - key: options.proficiency.0
-      t: None
+      t: Κανένα
     - key: options.proficiency.1
-      t: Beginner
+      t: Αρχάριος
     - key: options.proficiency.2
-      t: Intermediate
+      t: Ενδιάμεσος
     - key: options.proficiency.3
-      t: Advanced
+      t: Προχωρημένος
     - key: options.proficiency.4
-      t: Expert
+      t: Επαγγελματίας
       
     # Gender
 
     - key: options.gender.female
-      t: Woman
+      t: Γυναικά
     - key: options.gender.male
-      t: Man
+      t: Άνδρας
     - key: options.gender.non_binary
-      t: Non-Binary or Gender Non-Conforming
+      t: Τρίτο φύλο
     - key: options.gender.questioning
-      t: Questioning
+      t: Προβληματισμένος
     - key: options.gender.prefer_not_to_say
-      t: Prefer Not to Say
+      t: Προτιμώ να μην πω
     - key: options.gender.not_listed
-      t: Not Listed
+      t: Μη καταγεγραμμένο
 
     # Gender (short)
 
     - key: options.gender.female.short
-      t: Woman
+      t: Γυναικά
     - key: options.gender.male.short
-      t: Man
+      t: Άνδρας
     - key: options.gender.non_binary.short
-      t: Non-Binary or GNC
+      t: Τρίτο φύλο
     - key: options.gender.questioning.short
       t: Questioning
     - key: options.gender.prefer_not_to_say.short
-      t: Prefer Not to Say
+      t: Προτιμώ να μην πω
     - key: options.gender.not_listed.short
-      t: Not Listed
+      t: Μη καταγεγραμμένο
 
     # Race & Ethnicity
 
     - key: options.race_ethnicity.white_european
-      t: White
+      t: Λευκός
     - key: options.race_ethnicity.south_asian
-      t: South Asian
+      t: Νότια Ασία
     - key: options.race_ethnicity.south_east_asian
-      t: South East Asian
+      t: Νοτιανατολική Ασία
     - key: options.race_ethnicity.hispanic_latin
-      t: Hispanic or Latino/Latina/Latinx
+      t: Ισπανικής καταγώγης ή Λατίνος/Λατίνα
     - key: options.race_ethnicity.east_asian
-      t: East Asian
+      t: Ανατολική Ασία
     - key: options.race_ethnicity.middle_eastern
-      t: Middle Eastern
+      t: Μέση Ανατολή
     - key: options.race_ethnicity.black_african
-      t: Black or of African descent
+      t: Μαύρος ή αφρικανικής καταγωγής
     - key: options.race_ethnicity.multiracial
-      t: Multiracial
+      t: Πολυφυλετικός
     - key: options.race_ethnicity.biracial
-      t: Biracial
+      t: Μιγάς
     - key: options.race_ethnicity.native_american_islander_australian
-      t: Native American, Pacific Islander, or Indigenous Australian
+      t: Ιθαγενής Αμερικανός, Πολυνήσιος ή αυτόχθονες Αυστραλοί
     - key: options.race_ethnicity.not_listed
-      t: Not listed
+      t: Μη καταγεγραμμένο
 
     # Race & Ethnicity (short)
 
     - key: options.race_ethnicity.white_european.short
-      t: White
+      t: Λευκός
     - key: options.race_ethnicity.south_asian.short
-      t: South Asian
+      t: Νότια Ασία
     - key: options.race_ethnicity.south_east_asian.short
-      t: SE Asian
+      t: Νοτιανατολική Ασία
     - key: options.race_ethnicity.hispanic_latin.short
-      t: Hispanic/Latin
+      t: Ισπανικής καταγώγης ή Λατίνος/Λατίνα
     - key: options.race_ethnicity.east_asian.short
-      t: East Asian
+      t: Ανατολική Ασία
     - key: options.race_ethnicity.middle_eastern.short
-      t: Middle Eastern
+      t: Μέση Ανατολή
     - key: options.race_ethnicity.black_african.short
-      t: Black/African Descent
+      t: Μαύρος ή αφρικανικής καταγωγής
     - key: options.race_ethnicity.multiracial.short
-      t: Multiracial
+      t: Πολυφυλετικός
     - key: options.race_ethnicity.biracial.short
-      t: Biracial
+      t: Μιγάς
     - key: options.race_ethnicity.native_american_islander_australian.short
-      t: Native American/Pacific Islander/Indigenous Australian
+      t: Ιθαγενής Αμερικανός, Πολυνήσιος ή αυτόχθονες Αυστραλοί
     - key: options.race_ethnicity.not_listed.short
-      t: Not listed
+      t: Μη καταγεγραμμένο
 
     # Disability Status
     - key: options.disability_status.visual_impairments
@@ -638,59 +638,59 @@ translations:
     - key: options.form_factors.testing_tools
       t: Testing Tools (Axe, Lighthouse, etc.)
     - key: options.form_factors.vision_simulator
-      t: Altered Vision Simulator (color blindness, etc.)
+      t: Altered Vision Simulator (τύφλωση χρώματος, etc.)
 
     # Industry Sector
     - key: options.industry_sector.ecommerce
-      t: Ecommerce & Retail
+      t: Ηλεκτρονικό εμπόριο και λιανική
     - key: options.industry_sector.news_media
-      t: News, Media, & Blogging
+      t: Nέα, Media, & Blogging
     - key: options.industry_sector.healthcare
-      t: Healthcare
+      t: Ιατροφαρμακευτική περίθαλψη
     - key: options.industry_sector.finance
-      t: Finance
+      t: Χρηματοοικονομικά
     - key: options.industry_sector.programming_tools
-      t: Programming & Technical Tools
+      t: Προγραμματισμός & Τεχνικά εργαλεία 
     - key: options.industry_sector.socialmedia
       t: Social Media
     - key: options.industry_sector.marketing_tools
-      t: Marketing/Sales/Analytics Tools
+      t: Marketing/Sales/Analytics εργαλεία
     - key: options.industry_sector.education
-      t: Education
+      t: Εκπαίδευση
     - key: options.industry_sector.real_estate
       t: Real Estate
     - key: options.industry_sector.government
-      t: Government
+      t: Κυβέρνηση
     - key: options.industry_sector.entertainment
-      t: Entertainment
+      t: Ψυχαγωγίας
     - key: options.industry_sector.consulting
-      t: Consulting & Services
+      t: Συμβουλευτικές υπηρεσίες
     - key: options.industry_sector.travel
-      t: Travel
+      t: Ταξίδια
     - key: options.industry_sector.insurance
-      t: Insurance
+      t: Ασφάλιση
     - key: options.industry_sector.logistics
-      t: Logistics
+      t: Εφοδιαστική
     - key: options.industry_sector.energy
-      t: Energy
+      t: Ενέργεια
     - key: options.industry_sector.telecommunications
-      t: Telecommunications
+      t: Τηλεπικοινωνίες
     - key: options.industry_sector.student
-      t: Student
+      t: Σπουδαστής
     - key: options.industry_sector.hospitality
-      t: Hospitality
+      t: Φιλοξενία
     - key: options.industry_sector.cyber_security
       t: Cyber Security
     - key: options.industry_sector.construction
-      t: Construction
+      t: Κατασκευή
     - key: options.industry_sector.automotive
-      t: Automotive
+      t: Αυτοκινητοβιομηχανία
     - key: options.industry_sector.agriculture
-      t: Agriculture
+      t: Γεωργία
     - key: options.industry_sector.transport
-      t: Transport
+      t: Μεταφορές
     - key: options.industry_sector.manufacturing
-      t: Manufacturing
+      t: Bιομηχανία
 
     # tool evaluation
     - key: options.tool_evaluation.learning_curve_documentation
@@ -811,15 +811,15 @@ translations:
     ###########################################################################
 
     - key: tools.other_tools
-      t: Other Options
+      t: Άλλες επιλογές
     - key: tools.other_tools.description
-      t: Other options you use for the current section not mentioned in the list above.
+      t:  Άλλες επιλογές που χρησιμοποιείτε για την τρέχουσα ενότητα που δεν αναφέρεται στην παραπάνω λίστα.
     - key: tools.happiness
-      t: Overall Happiness
+      t: Συνολική ευτυχία
     - key: tools.happiness.description
       t: >
-          On a scale of one (very unhappy) to five (very happy), how happy are
-          you with the current overall state of things as it relates to the options listed above?
+          Σε κλίμακα από ένα (πολύ δυσαρεστημένο) έως πέντε (πολύ χαρούμενοι), πόσο χαρούμενοι είστε
+           εσείς με την τρέχουσα συνολική κατάσταση των πραγμάτων, καθώς σχετίζεται με τις επιλογές που αναφέρονται παραπάνω;
 
     ###########################################################################
     # Demographics (About You/User Info)
@@ -827,67 +827,66 @@ translations:
 
     # age
     - key: user_info.age
-      t: Age
+      t: Ηλικία
     - key: user_info.age.description
-      t: How old are you, in years?
+      t: Πόσο χρονών είσαι, σε χρόνια;
 
     # years of experience
     - key: user_info.years_of_experience
-      t: Years of Experience
+      t: Χρόνια εμπειρίας
     - key: user_info.years_of_experience.description
-      t: How long have you been working or studying in this field, in years?
+      t: Πόσο καιρό εργάζεστε ή σπουδάζετε σε αυτόν τον τομέα
 
     # company size
     - key: user_info.company_size
-      t: Company Size
+      t: Μέγεθος εταιρείας
     - key: user_info.company_size.description
-      t: How big is your company, in number of employees?
+      t: Πόσο μεγάλη είναι η εταιρεία σας, σε αριθμό εργαζομένων;
 
     # salary ranges
     - key: user_info.yearly_salary
-      t: Yearly Salary
+      t: Ετήσιος μισθός
     - key: user_info.yearly_salary.description
-      t: Your yearly salary in U.S. dollar. 
+      t: Ο ετήσιος μισθός σου σε ευρώ.
 
     # job title
     - key: user_info.job_title
-      t: Job Title
+      t: Τίτλος εργασίας
     - key: user_info.job_title.description
-      t: How do you introduce yourself to others?
+      t: Πώς μπορείτε να συστήσετε τον εαυτό σας στο πλήθος??
 
     # javascript proficiency
     - key: user_info.javascript_proficiency
-      t: JavaScript Proficiency
+      t: Επάρκεια σε JavaScript
     - key: user_info.javascript_proficiency.description
-      t: How proficient are you at JavaScript?
+      t: Πόσο ικανός είστε στην JavaScript?
 
     # css proficiency
     - key: user_info.css_proficiency
-      t: CSS Proficiency
+      t: Επάρκεια σε CSS
     - key: user_info.css_proficiency.description
-      t: How proficient are you at CSS?
+      t: Πόσο ικανός είστε στo CSS?
 
     # backend proficiency
     - key: user_info.backend_proficiency
-      t: Back-end Proficiency
+      t: Επάρκεια σε  Back-end
     - key: user_info.backend_proficiency.description
-      t: How proficient are you at back-end development?
+      t: Πόσο ικανός είστε στην ανάπτυξη back-end?
 
     # gender
     - key: user_info.gender
-      t: Gender
+      t: Γένος
     - key: user_info.gender.description
       t: >
-        Which of the following options describes you, if any? Please pick one.
+        Ποια από τις ακόλουθες επιλογές σας περιγράφει, εάν υπάρχουν; Παρακαλώ επιλέξτε ένα.
     - key: user_info.gender.note
       t: >
-        While we know collecting and publishing diversity data can be a sensitive issue, 
-        we do think it's important to obtain this data to help measure and improve 
-        the survey's efforts in terms of inclusivity and representativeness. 
+       Ενώ γνωρίζουμε ότι η συλλογή και η δημοσίευση δεδομένων  μπορεί να είναι ένα ευαίσθητο ζήτημα,
+πιστεύουμε ότι είναι σημαντικό να αποκτήσουμε αυτά τα δεδομένα για να βοηθήσουμε στη μέτρηση και τη βελτίωση της έρευνας όσον αφορά την περιεκτικότητα και την αντιπροσωπευτικότητα.
         
     # race & ethnicity
     - key: user_info.race_ethnicity
-      t: Race & Ethnicity
+      t: Φυλή και εθνικότητα
     - key: user_info.race_ethnicity.description
       t: >
         Which of the following options describe you, if any? Please check all that apply.
@@ -915,9 +914,9 @@ translations:
 
     # other info
     - key: user_info.how_did_user_find_out_about_the_survey
-      t: How did you find out about this survey?
+      t: Πώς μάθατε για αυτήν την έρευνα?
     - key: user_info.email
-      t: Your Email
+      t: Το Email σας
     - key: user_info.email.description
       t: > 
           You have filled out the survey anonymously. If you'd like, you can optionally enter your email to be able to access your data later on, and be notified when the survey results are published. 
@@ -925,16 +924,16 @@ translations:
       t: > 
           We do not store any personal data, so after you fill in your email address we will use it to generate a unique anonymized identifier and then delete the address itself from our records. 
     - key: user_info.country
-      t: Your Country or Region
+      t: Η χώρα ή περιοχή σας
     - key: user_info.country.description
       t: Where do you currently reside?
 
     - key: user_info.github_username
-      t: Your GitHub Username
+      t: Το όνομα χρήστη σας στο GitHub
     - key: user_info.github_username.description
       t: >
-        We might use GitHub usernames in the future to look at
-        repos and cross-reference publicly available information. 
+        Θα μπορούσαμε να χρησιμοποιήσουμε τα ονόματα χρηστών του GitHub στο μέλλον για να τα δούμε τα
+         repos και παραπομπές διαθέσιμες στο κοινό.. 
       
     - key: user_info.twitter_username
       t: Your Twitter Username
@@ -945,13 +944,13 @@ translations:
          (such as the list of people you're following). 
 
     - key: user_info.industry_sector
-      t: Industry Sector
+      t: Βιομηχανικός τομέας
     - key: user_info.industry_sector.description
-      t: Which industry sector(s) do you work in?
+      t:  Σε ποιον τομέα βιομηχανίας εργάζεστε;
     - key: user_info.industry_sector.others
-      t: Other Industry Sectors
+      t: Άλλοι κλάδοι της βιομηχανίας
     - key: user_info.industry_sector.others.description
-      t: Other industry sector(s) you work in not mentioned above.
+      t:  Άλλοι βιομηχανικοί τομείς στους οποίους εργάζεστε, τα οποια δεν αναφέρονται παραπάνω.
 
     # degree
     - key: user_info.higher_education_degree
@@ -982,58 +981,57 @@ translations:
     ###########################################################################
 
     - key: tools_others.libraries
-      t: Libraries
+      t: Βιβλιοθήκες
     - key: tools_others.libraries.description
-      t: Which libraries do you regularly use?
+      t: Ποιες βιβλιοθήκες χρησιμοποιείτε τακτικά?
     - key: tools_others.libraries.others
-      t: Other Libraries
+      t:  Άλλες Βιβλιοθήκες
     - key: tools_others.libraries.others.description
-      t: Other answers (freeform field).
+      t: Άλλες απαντήσεις (freeform field).
 
     - key: tools_others.text_editors
-      t: Text Editors
+      t: Eπεξεργαστές κειμένου (Text Editors)
     - key: tools_others.text_editors.description
-      t: Which text editor(s) do you regularly use?
+      t: Ποιο πρόγραμμα επεξεργασίας κειμένου (text editors) χρησιμοποιείτε τακτικά?
     - key: tools_others.text_editors.others
-      t: Other Text Editors
+      t: Άλλοι Eπεξεργαστές κειμένου
     - key: tools_others.text_editors.others.description
-      t: Other answers (freeform field).
-
+      t: Άλλες απαντήσεις (freeform field).
     - key: tools_others.utilities
-      t: Utilities
+      t: Βοηθητικά προγράμματα
     - key: tools_others.utilities.description
-      t: Which utilities or tools do you regularly use?
+      t: Ποια βοηθητικά προγράμματα ή εργαλεία χρησιμοποιείτε τακτικά?
     - key: tools_others.utilities.others
-      t: Other Utilities
+      t: Άλλα βοηθητικά προγράμματα
     - key: tools_others.utilities.others.description
-      t: Other utilities (freeform field).
+      t:  Άλλα βοηθητικά προγράμματα (freeform field).
 
     - key: tools_others.browsers
-      t: Browsers
+      t: Πρόγραμμα περιήγησης
     - key: tools_others.browsers.description
-      t: Which browser(s) do you primarily work in during initial development?
+      t: Ποια προγράμματα περιήγησης χρησιμοποιείτε για ανάπτυξη?
     - key: tools_others.browsers.others
-      t: Other Browsers
+      t: Άλλα πρόγραμμα περιήγησης
     - key: tools_others.browsers.others.description
-      t: Other answers (freeform field).
+      t: Άλλες απαντήσεις (freeform field).
 
     - key: tools_others.build_tools
-      t: Build Tools
+      t: Εργαλεία κατασκευής
     - key: tools_others.build_tools.description
-      t: Which build tools do you use?
+      t: Ποια εργαλεία κατασκευής χρησιμοποιείτε?
     - key: tools_others.build_tools.others
-      t: Other Build Tools
+      t: Άλλα εργαλεία κατασκευής
     - key: tools_others.build_tools.others.description
-      t: Other answers (freeform field).
+      t: Άλλες απαντήσεις (freeform field).
 
     - key: tools_others.non_js_languages
-      t: Non-JavaScript Languages
+      t:  Γλώσσες εκτός JavaScript
     - key: tools_others.non_js_languages.description
-      t: Which other programming languages do you use?
+      t: Ποιες άλλες γλώσσες προγραμματισμού χρησιμοποιείτε?
     - key: tools_others.non_js_languages.others
-      t: Other Languages
+      t: Άλλες γλώσσες
     - key: tools_others.non_js_languages.others.description
-      t: Other answers (freeform field).
+      t:  Άλλες απαντήσεις (freeform field).
 
     - key: tools_others.javascript_flavors
       t: JavaScript Flavors
@@ -1042,7 +1040,7 @@ translations:
     - key: tools_others.javascript_flavors.others
       t: Other JavaScript Flavors
     - key: tools_others.javascript_flavors.others.description
-      t: Other answers (freeform field).
+      t: Άλλες απαντήσεις (freeform field).
 
     ###########################################################################
     # Usage
@@ -1060,37 +1058,36 @@ translations:
     - key: resources.first_steps.others
       t: Other First Learning Methods
     - key: resources.first_steps.others.description
-      t: Other answers (freeform field).
+      t:  Άλλες απαντήσεις (freeform field).
     
     # blogs & magazines
     - key: resources.blogs_news_magazines
-      t: Blogs & Magazines
+      t: Blogs & Περιοδικά
     - key: resources.blogs_news_magazines.description
-      t: Which blogs/magazines/etc. do you read?
+      t: Ποια blogs/περιοδικά/κ.λπ. διαβάζεται?
     - key: resources.blogs_news_magazines.others
-      t: Other Blogs & Magazines
+      t:  Άλλα Blogs & Περιοδικά
     - key: resources.blogs_news_magazines.others.description
-      t: Other answers (freeform field).
+      t:  Άλλες απαντήσεις (freeform field).
 
     # sites & courses
     - key: resources.sites_courses
-      t: Sites & Courses
+      t: Ιστότοποι και σεμινάρια
     - key: resources.sites_courses.description
-      t: Which sites/courses/etc. do you consult?
+      t: Ποιους ιστότοπους/σεμινάρια/κ.λπ. συμβουλεύεσται?
     - key: resources.sites_courses.others
-      t: Other Sites & Courses
+      t:  Άλλους ιστότοπους και σεμινάριαs
     - key: resources.sites_courses.others.description
-      t: Other answers (freeform field).
+      t: Άλλες απαντήσεις (freeform field).
 
     # podcasts
     - key: resources.podcasts
       t: Podcasts
     - key: resources.podcasts.description
-      t: Which programming-related podcasts do you listen to?
-    - key: resources.podcasts.others
+      t: Ποια podcast που σχετίζονται με τον προγραμματισμό ακούτε?
       t: Other Podcasts
     - key: resources.podcasts.others.description
-      t: Other answers (freeform field).
+      t: Άλλες απαντήσεις (freeform field).
 
     # people
     - key: resources.people
@@ -1100,7 +1097,7 @@ translations:
     # - key: resources.people.others
     #   t: Other People
     # - key: resources.people.others.description
-    #   t: Other answers (freeform field).
+    #   t: Άλλες απαντήσεις (freeform field).
     - key: resources.people.others
       t: People
     - key: resources.people.others.description
