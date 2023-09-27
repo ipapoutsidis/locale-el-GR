@@ -81,29 +81,29 @@ translations:
 
     # credits
     - key: credits.thanks
-      t: Special Thanks
+      t: Ιδιαίτερα ευχαριστώ
     - key: credits.contributors
-      t: Contributors
+      t: Συνεισφέροντες
     - key: credits.contributors.description
-      t: Special thanks to the following people for helping us design the survey.
+      t: Ευχαριστούμε ιδιαίτερα τα παρακάτω άτομα που μας βοήθησαν να σχεδιάσουμε την έρευνα.
     - key: credits.accessibility
-      t: Accessibility Consulting
+      t: Συμβουλευτική Προσβασιμότητα
     - key: credits.survey_design
-      t: Survey Design
+      t: Σχεδιασμός Έρευνας
     - key: credits.logo_design
-      t: Logo Design
+      t: Σχεδιασμός λογότυπου
     - key: credits.mobile_testing
-      t: Mobile Testing
+      t: Δοκιμές για φορητές συσκευές
     - key: credits.data_visualizations
-      t: Data Visualizations
+      t: Απεικόνιση δεδομένων
     - key: credits.repo_architecture
-      t: Repo Architecture
+      t: Αρχιτεκτονική Repo
     - key: credits.code_refactoring
-      t: Code Refactoring
+      t: Ανακατασκευή κώδικα
     - key: credits.data_processing
-      t: Data Processing
+      t: Επεξεργασία δεδομένων
     - key: credits.back_end_development
-      t: Back-End Developement
+      t: Ανάπτυξη Back-End 
 
     # support
     - key: general.support_from
@@ -136,7 +136,7 @@ translations:
 
     # thanks
     - key: general.back
-      t: Back
+      t: Πίσω
     - key: general.thanks
       t: >
           Ευχαριστούμε που συμπληρώσατε την έρευνα!
@@ -440,7 +440,7 @@ translations:
 
     # company size (short versions)
     - key: options.company_size.range_1.short
-      t: 1
+      t: 0-1
     - key: options.company_size.range_1_5.short
       t: 1-5
     - key: options.company_size.range_5_10.short
@@ -458,7 +458,7 @@ translations:
 
     # salary
     - key: options.yearly_salary.range_work_for_free
-      t: Δουλεύω δωρεάν
+      t: Εργάζομαι δωρεάν
     - key: options.yearly_salary.range_0_10
       t: €0k-€10k
     - key: options.yearly_salary.range_10_30
@@ -583,58 +583,58 @@ translations:
     # Disability Status
     - key: options.disability_status.visual_impairments
       t: >
-        Visual impairments (such as: blindness, color blindness, etc.)
+        Προβλήματα όρασης (όπως: τύφλωση, αχρωματοψία κ.λπ.)
     - key: options.disability_status.hearing_impairments
       t: >
-        Hearing impairments (such as: deafness, tinnitus, etc.)
+        Προβλήματα ακοής (όπως: κώφωση, εμβοές κ.λπ.)
     - key: options.disability_status.mobility_impairments
       t: >
-        Mobility impairments (such as: arthritis, carpal tunnel, etc.)
+        Προβλήματα κινητικότητας (όπως: αρθρίτιδα, καρπιαίου σωλήνα κ.λπ.)
     - key: options.disability_status.cognitive_impairments
       t: >
-        Cognitive impairments (such as: anxiety, dyslexia, etc.)
+       Γνωστικές διαταραχές (όπως: άγχος, δυσλεξία κ.λπ.)
     - key: options.disability_status.not_listed
       t: >
-        Not Listed
+       Μη καταγεγραμμένο
 
     # Disability Status (short)
     - key: options.disability_status.visual_impairments
       t: >
-        Visual impairments
+        Προβλήματα όρασης
     - key: options.disability_status.hearing_impairments
       t: >
-        Hearing impairments
+        Προβλήματα ακοής
     - key: options.disability_status.mobility_impairments
       t: >
-        Mobility impairments
+       Προβλήματα κινητικότητας
     - key: options.disability_status.cognitive_impairments
       t: >
-        Cognitive impairments
+        Γνωστικές διαταραχές
     - key: options.disability_status.not_listed
       t: >
-        Not Listed
+        Μη καταγεγραμμένο
 
     # Form Factors
     - key: options.form_factors.desktop
-      t: Desktop
+      t: Επιτραπέζιος υπολογιστής
     - key: options.form_factors.keyboard_only
-      t: Desktop with keyboard only
+      t: Επιτραπέζιος υπολογιστής μόνο με πληκτρολόγιο
     - key: options.form_factors.smartphone
       t: Smartphone
     - key: options.form_factors.feature_phone
-      t: Feature phone
+      t: Χαρακτηριστικό τηλέφωνο
     - key: options.form_factors.tablet
       t: Tablet
     - key: options.form_factors.smart_watch
       t: Smartwatch
     - key: options.form_factors.tv
-      t: TV
+      t: Tηλεόραση
     - key: options.form_factors.gaming_console
-      t: Gaming console
+      t: Κονσόλα παιχνιδιών
     - key: options.form_factors.screen_reader
       t: Screen reader
     - key: options.form_factors.print
-      t: Print
+      t: Εκτύπωση
     - key: options.form_factors.testing_tools
       t: Testing Tools (Axe, Lighthouse, etc.)
     - key: options.form_factors.vision_simulator
@@ -658,7 +658,7 @@ translations:
     - key: options.industry_sector.education
       t: Εκπαίδευση
     - key: options.industry_sector.real_estate
-      t: Real Estate
+      t: Ακίνητα
     - key: options.industry_sector.government
       t: Κυβέρνηση
     - key: options.industry_sector.entertainment
@@ -694,19 +694,19 @@ translations:
 
     # tool evaluation
     - key: options.tool_evaluation.learning_curve_documentation
-      t: Documentation
+      t: Εγχειρίδια
     - key: options.tool_evaluation.learning_curve_documentation.description
-      t: Is it easy to learn and/or well-documented?
+      t: Είναι εύκολο να μάθεις και/ή καλά τεκμηριωμένα?
     - key: options.tool_evaluation.momentum_popularity
       t: Hype & Momentum
     - key: options.tool_evaluation.momentum_popularity.description
-      t: Is it currently generating a lot of buzz?
+      t: Αυτή τη στιγμή δημιουργεί πολύ θόρυβο;
     - key: options.tool_evaluation.user_base_size
-      t: User Base Size
+      t: Μέγεθος βάσης χρήστη
     - key: options.tool_evaluation.user_base_size.description
-      t: Is it a well-established option with a long track record?
+      t: Είναι μια καθιερωμένη επιλογή με μακρά πορεία;
     - key: options.tool_evaluation.developer_experience_tooling
-      t: Developer Experience
+      t: Εμπειρία προγραμματιστή
     - key: options.tool_evaluation.developer_experience_tooling.description
       t: Does it have good developer tools, a large plugin ecosystem, etc.?
     - key: options.tool_evaluation.performance_user_experience
